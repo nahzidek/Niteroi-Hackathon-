@@ -21,11 +21,8 @@ All Files were recieved from Felipe Leichsnering Mendes
 ## Data Structure
 
 The data is organized as follows:
-
-*   `Raw Data/`: This folder contains the original raw Portuguese crime data 
-    *   `Niteroi_original_Dados_SEOP.xlsx`: This file contains the original data in Portuguese on homicide, robbery, and theft crimes from 2021-
-*   `Cleaned Data/`: This folder contains the translated crime data 
-    *   `translated_sheet_final.xlsx`: This file contains the translated data in Englishon homicide, robbery, and theft crimes from 2021-2025 
+*   `Niteroi_original_Dados_SEOP.xlsx`: This file contains the original data in Portuguese on homicide, robbery, and theft crimes from 2021-
+*   `translated_sheet_final.xlsx`: This file contains the translated data in Englishon homicide, robbery, and theft crimes from 2021-2025 
 *   `Shapefiles/`: This folder contains shapefiles. (No need to list all .shp, .sbx files individually)
     *   `Viradouro.shp`: georeferencing of the Viradouro and Caramujo areas.
 
